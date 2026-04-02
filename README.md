@@ -14,44 +14,87 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->👋 Hi, I'm Romaaan Majeed
+# 👋 Hi, I'm Romaaan Majeed
 
-💻 Full Stack Developer
-🚀 Passionate about building modern web applications
-📍 India
-About Me
+### 💻 Full Stack Developer | MERN Stack Specialist
 
-I am a dedicated Full Stack Developer with experience in both frontend and backend development. I enjoy solving real-world problems and building scalable, efficient, and user-friendly applications 
-Tech Stack
-🌐 Frontend
-HTML5
-CSS3
-JavaScript
-React.js
-🖥️ Backend
-Node.js
-Express.js
-🗄️ Database
-MongoDB
-MySQL
-🛠️ Tools & Technologies
-Git & GitHub
-REST APIs
-VS Code
-📂 Projects
-🔹 Project 1: Personal Portfolio Website
-Built using HTML, CSS, and JavaScript
-Fully responsive design
-Showcases skills and projects
-🔹 Project 2: Full Stack Web App
-Developed using MERN stack
-User authentication system
-CRUD operations
-🎯 Goals
-Become an expert Full Stack Developer
-Learn advanced backend systems and security (ethical hacking)
-Build impactful real-world applications
-📫 Contact Me
-Email: your-pulawamassp@gmail.com
-GitHub: https://github.com/pulawamassp-arch
+🚀 I build scalable, secure, and high-performance web applications using modern technologies.
+🎯 Passionate about solving real-world problems and continuously improving my skills.
 
-⭐ Always learning, 
+---
+
+## 🧠 Professional Summary
+
+Results-driven Full Stack Developer with strong experience in designing, developing, and deploying end-to-end web applications. Skilled in both frontend and backend technologies with a focus on performance, security, and clean code practices.
+
+---
+
+## ⚙️ Technical Skills
+
+### 🌐 Frontend Development
+
+* HTML5, CSS3, JavaScript (ES6+)
+* React.js
+* Responsive Web Design
+
+### 🖥️ Backend Development
+
+* Node.js
+* Express.js
+* RESTful API Development
+
+### 🗄️ Database Management
+
+* MongoDB
+* MySQL
+
+### 🛠️ Tools & Technologies
+
+* Git & GitHub
+* VS Code
+* Postman
+* Linux
+
+---
+
+## 📂 Projects
+
+### 🔹 Full Stack Web Application (MERN)
+
+* Built a complete web application with authentication and authorization
+* Implemented CRUD operations and REST APIs
+* Designed responsive and user-friendly UI
+
+### 🔹 Personal Portfolio Website
+
+* Developed a modern portfolio to showcase projects and skills
+* Optimized for performance and SEO
+
+---
+
+## 🎯 Career Objectives
+
+* To become an expert Full Stack Developer
+* To specialize in backend systems and cybersecurity (ethical hacking)
+* To contribute to impactful and scalable real-world projects
+
+---
+
+## 📈 Strengths
+
+* Problem-solving mindset
+* Clean and maintainable code
+* Fast learner and self-motivated
+* Strong understanding of full stack architecture
+
+---
+
+## 📫 Contact Information
+
+* 📧 Email: [pulawamassp@gmail.com.com]
+* 🌐 GitHub: https://github.com/pulawamassp-arch
+
+---
+
+⭐ *"Code. Build. Improve. Repeat."*
+
